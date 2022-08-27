@@ -13,7 +13,12 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.search{
+  border:2px solid greenyellow;
+  margin-top:2rem;
+  padding: 10px 50px 10px 50px;
+  border-radius:1.5rem;
+}
 .header {
   display:flex;
   justify-content: space-around;

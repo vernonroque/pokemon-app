@@ -15,7 +15,7 @@ function PokemonThumbnail({pokemon}) {
         pokemonDetails();
     },[]);
 
-    console.log(pokemonUnit);
+    //console.log(pokemonUnit);
 
 
         //const style =  pokemonUnit.types[0].type.name + " pokemon_thumbnails";
